@@ -1,0 +1,106 @@
+[
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 34.4,
+  "city": "Abu Dhabi",
+  "rating": 1
+ }
+][
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 33.4,
+  "city": "Cairo",
+  "rating": 2
+ }
+][
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 32.8,
+  "city": "Baoding District",
+  "rating": 3
+ }
+][
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 27.9,
+  "city": "Rome",
+  "rating": 4
+ }
+][
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 27.1,
+  "city": "Bucharest",
+  "rating": 5
+ }
+][
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 23.6,
+  "city": "Novosibirsk",
+  "rating": 6
+ }
+][
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 23.2,
+  "city": "Volgograd",
+  "rating": 7
+ }
+][
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 16.1,
+  "city": "London",
+  "rating": 8
+ }
+][
+ {
+  "average rainless hours for all days": 10.3,
+  "average temp for all days": 17.3,
+  "city": "\u00c9tr\u00e9chy",
+  "rating": 9
+ }
+][
+ {
+  "average rainless hours for all days": 5.0,
+  "average temp for all days": 16.3,
+  "city": "Teltow-Fl\u00e4ming",
+  "rating": 10
+ }
+][
+ {
+  "average rainless hours for all days": 4.7,
+  "average temp for all days": 15.5,
+  "city": "Powiat Warszawa",
+  "rating": 11
+ }
+][
+ {
+  "average rainless hours for all days": 4.0,
+  "average temp for all days": 13.3,
+  "city": "Kaliningrad",
+  "rating": 12
+ }
+][
+ {
+  "average rainless hours for all days": 3.0,
+  "average temp for all days": 13.6,
+  "city": "City of Kazan",
+  "rating": 13
+ }
+][
+ {
+  "average rainless hours for all days": 2.3,
+  "average temp for all days": 14.3,
+  "city": "Moscow",
+  "rating": 14
+ }
+][
+ {
+  "average rainless hours for all days": 1.0,
+  "average temp for all days": 11.9,
+  "city": "Saint Petersburg",
+  "rating": 15
+ }
+]
