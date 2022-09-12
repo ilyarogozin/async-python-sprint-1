@@ -149,3 +149,6 @@ dmypy.json
 static/
 posts/static/
 media/
+
+cities_calculated_data
+cities_rating
